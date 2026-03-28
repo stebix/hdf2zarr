@@ -1,5 +1,7 @@
 # hdf2zarr
 
+[![CI](https://github.com/stebix/hdf2zarr/actions/workflows/ci.yml/badge.svg)](https://github.com/stebix/hdf2zarr/actions/workflows/ci.yml)
+
 Quick python utility to convert HDF5 files to Zarr format.
 
 ## Installation
